@@ -16,11 +16,14 @@ contact:
 url: "https://manusights.com"
 repository-code: "https://github.com/Manusights/manusights-citation"
 repository-artifact: "https://github.com/Manusights/manusights-citation/archive/refs/tags/v1.1.0.tar.gz"
-doi: "10.5281/zenodo.20072011"
+doi: "10.5281/zenodo.20072010"
 identifiers:
   - type: doi
     value: "10.5281/zenodo.20072010"
-    description: "Concept DOI (resolves to the latest version of Manusights)"
+    description: "Concept DOI (resolves to the latest version of Manusights — preferred for citation in general)"
+  - type: doi
+    value: "10.5281/zenodo.20072247"
+    description: "Version DOI for v1.1.0 (immutable snapshot — cite for reproducibility)"
   - type: doi
     value: "10.5281/zenodo.20072011"
     description: "Version DOI for v1.0.2 (immutable snapshot)"
