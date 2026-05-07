@@ -10,7 +10,7 @@ authors:
 url: "https://manusights.com"
 repository-code: "https://github.com/Manusights/manusights-citation"
 license: "LicenseRef-Proprietary"
-version: "1.0.0"
+version: "1.0.1"
 date-released: "2026-05-07"
 keywords:
   - "manuscript review"
