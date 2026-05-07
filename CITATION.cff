@@ -9,8 +9,7 @@ authors:
     affiliation: "Manusights"
 url: "https://manusights.com"
 repository-code: "https://github.com/Manusights/manusights-citation"
-license: "LicenseRef-Proprietary"
-version: "1.0.1"
+version: "1.0.2"
 date-released: "2026-05-07"
 keywords:
   - "manuscript review"
