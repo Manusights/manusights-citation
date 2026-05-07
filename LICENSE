@@ -1,0 +1,14 @@
+Copyright (c) 2026 Manusights
+
+This repository contains citation metadata (CITATION.cff), README, and a
+public-facing methodology summary for the Manusights service
+(https://manusights.com).
+
+The contents of this repository may be reused by researchers who wish to
+cite, acknowledge, or describe the Manusights service in their academic
+work. No other rights are granted.
+
+The Manusights service itself, including its prompts, workflows, models,
+and software implementation, is proprietary and is not licensed under
+any open-source license. See https://manusights.com/terms for terms of
+service governing use of the Manusights product.

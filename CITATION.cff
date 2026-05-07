@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you used Manusights to review your manuscript before submission, please cite it as below."
+type: software
+title: "Manusights"
+abstract: "AI manuscript pre-submission review with live citation verification against scholarly databases (CrossRef, PubMed, OpenAlex, Semantic Scholar, bioRxiv, medRxiv), vision-based figure and image-equation analysis, and journal-specific desk-reject scoring. Designed to catch the structural, citation, and figure-trust risks that determine editorial triage outcomes before submission."
+authors:
+  - family-names: "Jia"
+    given-names: "Erik"
+    affiliation: "Manusights"
+url: "https://manusights.com"
+repository-code: "https://github.com/Manusights/manusights-citation"
+license: "LicenseRef-Proprietary"
+version: "1.0.0"
+date-released: "2026-05-07"
+keywords:
+  - "manuscript review"
+  - "pre-submission review"
+  - "AI peer review"
+  - "academic publishing"
+  - "citation verification"
+  - "figure analysis"
+  - "journal fit"
+  - "desk-reject prediction"
+preferred-citation:
+  type: software
+  title: "Manusights: AI manuscript pre-submission review"
+  authors:
+    - family-names: "Jia"
+      given-names: "Erik"
+  url: "https://manusights.com"
+  year: 2026
+  version: "1.0.0"
+  abstract: "AI manuscript pre-submission review with live citation verification, figure analysis, and journal-specific desk-reject scoring."
