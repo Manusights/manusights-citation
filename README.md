@@ -14,7 +14,9 @@ For BibTeX, AMA, APA, or other citation formats, see [manusights.com/cite](https
 
 ## DOI
 
-Each tagged release of this repository is auto-deposited to Zenodo and assigned a DOI. The DOI badge will appear here once the first release is published.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20072010.svg)](https://doi.org/10.5281/zenodo.20072010)
+
+The concept DOI [`10.5281/zenodo.20072010`](https://doi.org/10.5281/zenodo.20072010) always resolves to the latest version. Per-release DOIs are available on the [Zenodo deposit page](https://zenodo.org/records/20072011).
 
 ## Methodology
 

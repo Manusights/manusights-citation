@@ -9,6 +9,7 @@ authors:
     affiliation: "Manusights"
 url: "https://manusights.com"
 repository-code: "https://github.com/Manusights/manusights-citation"
+doi: "10.5281/zenodo.20072010"
 version: "1.0.2"
 date-released: "2026-05-07"
 keywords:
@@ -27,6 +28,7 @@ preferred-citation:
     - family-names: "Jia"
       given-names: "Erik"
   url: "https://manusights.com"
+  doi: "10.5281/zenodo.20072010"
   year: 2026
-  version: "1.0.0"
+  version: "1.0.2"
   abstract: "AI manuscript pre-submission review with live citation verification, figure analysis, and journal-specific desk-reject scoring."
