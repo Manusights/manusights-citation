@@ -1,16 +1,37 @@
 cff-version: 1.2.0
-message: "If you used Manusights to review your manuscript before submission, please cite it as below."
+message: "If you used Manusights to review your manuscript before submission, please cite this software using the metadata below. Cite the version DOI for reproducibility; link the concept DOI when referring to Manusights in general."
 type: software
-title: "Manusights"
-abstract: "AI manuscript pre-submission review with live citation verification against scholarly databases (CrossRef, PubMed, OpenAlex, Semantic Scholar, bioRxiv, medRxiv), vision-based figure and image-equation analysis, and journal-specific desk-reject scoring. Designed to catch the structural, citation, and figure-trust risks that determine editorial triage outcomes before submission."
+title: "Manusights: AI Pre-Submission Manuscript Review"
+abstract: "Manusights is a hosted AI service that reviews academic manuscripts before submission. The system performs three primary analyses: live citation verification against scholarly databases (CrossRef, PubMed, OpenAlex, Semantic Scholar, bioRxiv, medRxiv) covering more than 500 million works; vision-based parsing of figures, micrographs, and image-embedded equations; and journal-specific desk-reject scoring against a target venue's editorial triage patterns. The deliverable is a structured diagnostic report intended to surface the structural, citation, and figure-trust risks that determine editorial outcomes before a manuscript reaches a reviewer."
 authors:
   - family-names: "Jia"
     given-names: "Erik"
     affiliation: "Manusights"
+    email: "erik@manusights.com"
+contact:
+  - family-names: "Jia"
+    given-names: "Erik"
+    email: "team@manusights.com"
+    affiliation: "Manusights"
 url: "https://manusights.com"
 repository-code: "https://github.com/Manusights/manusights-citation"
-doi: "10.5281/zenodo.20072010"
-version: "1.0.2"
+repository-artifact: "https://github.com/Manusights/manusights-citation/archive/refs/tags/v1.1.0.tar.gz"
+doi: "10.5281/zenodo.20072011"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20072010"
+    description: "Concept DOI (resolves to the latest version of Manusights)"
+  - type: doi
+    value: "10.5281/zenodo.20072011"
+    description: "Version DOI for v1.0.2 (immutable snapshot)"
+  - type: url
+    value: "https://manusights.com"
+    description: "Live service"
+  - type: url
+    value: "https://manusights.com/cite"
+    description: "Citation guidance and additional formats"
+license: CC-BY-4.0
+version: "1.1.0"
 date-released: "2026-05-07"
 keywords:
   - "manuscript review"
@@ -21,14 +42,31 @@ keywords:
   - "figure analysis"
   - "journal fit"
   - "desk-reject prediction"
+references:
+  - type: article
+    title: "Software Citation Principles"
+    authors:
+      - family-names: "Smith"
+        given-names: "Arfon M."
+      - family-names: "Katz"
+        given-names: "Daniel S."
+      - family-names: "Niemeyer"
+        given-names: "Kyle E."
+    year: 2016
+    journal: "PeerJ Computer Science"
+    doi: "10.7717/peerj-cs.86"
+    notes: "Anchor reference for the FORCE11 Software Citation Principles that motivated the structure of this deposit."
 preferred-citation:
   type: software
-  title: "Manusights: AI manuscript pre-submission review"
+  title: "Manusights: AI Pre-Submission Manuscript Review"
   authors:
     - family-names: "Jia"
       given-names: "Erik"
+      affiliation: "Manusights"
   url: "https://manusights.com"
   doi: "10.5281/zenodo.20072010"
+  publisher:
+    name: "Zenodo"
   year: 2026
-  version: "1.0.2"
-  abstract: "AI manuscript pre-submission review with live citation verification, figure analysis, and journal-specific desk-reject scoring."
+  version: "1.1.0"
+  abstract: "AI manuscript pre-submission review with live citation verification, vision-based figure analysis, and journal-specific desk-reject scoring."
